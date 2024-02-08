@@ -1,7 +1,7 @@
 # Bubble Sort 
 
 def bubble_sort(a):
-    print("Insertion Sort Algorithm :-")
+    print("Bubble Sort Algorithm :-")
     print("")
     n=len(a)
     for i in range(0,n):
